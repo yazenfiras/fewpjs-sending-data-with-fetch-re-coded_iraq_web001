@@ -24,6 +24,7 @@
 let name = "jim"
       let email = "jim@jim.com"
 submitData(name,email)
+<<<<<<< HEAD
 */
 
 function submitData(name,email)
@@ -59,3 +60,5 @@ function submitData(name,email)
       let email="jim@jim.com"
       submitData(name,email)
   // Add your code here
+=======
+>>>>>>> 6b2ba58286cb73ecc168ddc9ebffe48f839f5ce4
